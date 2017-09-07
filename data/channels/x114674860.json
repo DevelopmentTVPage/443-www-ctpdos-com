@@ -1,0 +1,41 @@
+{
+    "title": "Content Test",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1504752051",
+    "date_modified": "1504753636",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "114674860",
+    "loginId": "1759028",
+    "entityType": "5",
+    "titleTextEncoded": "Content-Test",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "name": "Product Block",
+                "add": "videos",
+                "conditions": {
+                    "order": "none",
+                    "keyword": ""
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "field_x": "y"
+                    }
+                },
+                "options": {},
+                "extras": {}
+            }
+        ]
+    },
+    "transcripts": null
+}
