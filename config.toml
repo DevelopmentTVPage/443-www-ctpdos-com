@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Content Test Project"
+baseURL = "https:\/\/www.ctpdos.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1759028"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "ctpdos.com"
